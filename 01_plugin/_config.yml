@@ -1,0 +1,4 @@
+plugins:
+  - jekyll/web_monetization
+
+payment_pointer: $wallet.example/someId
